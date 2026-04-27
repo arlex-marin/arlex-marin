@@ -1,4 +1,4 @@
-### Hello, I'm Dr. Arlex Marín 👋
+### Hello, I'm Arlex Marín García 👋
 #### Computational Scientist | Time Series & Complex Systems | Bridging Research, Policy & Impact
 
 I transform complex, noisy data—from brain signals to environmental exposures—into robust models and actionable insights. With over a decade of experience analyzing non-stationary systems, I help organizations move beyond simple correlations to find genuine, predictive signals that drive evidence-based decisions.
